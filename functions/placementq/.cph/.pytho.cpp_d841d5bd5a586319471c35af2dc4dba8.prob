@@ -1,0 +1,1 @@
+{"name":"Local: pytho","url":"d:\\coding\\c++ coding\\functions\\placementq\\pytho.cpp","tests":[{"id":1657250256987,"input":"5 4 3","output":"5it is a pythogorean triplet"},{"id":1657250401304,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\c++ coding\\functions\\placementq\\pytho.cpp","group":"local","local":true}
